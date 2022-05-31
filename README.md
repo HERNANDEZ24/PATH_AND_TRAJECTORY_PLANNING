@@ -2,7 +2,7 @@
 
     Contains Cubic and Quintic Polynomial-Plotting
     
-    CARTESIAN_STANDARD IN ROBOTIC TOOLBOX USED BY MR. PETER CORKE
+    CARTESIAN_STANDARD IN ROBOTIC TOOLBOX
 <img src="img/Figure_1.png">
 <img src="img/Robotics_Toolbox_for_Python_(Figure_2).png">
 
